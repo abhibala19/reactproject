@@ -12,6 +12,6 @@ class ComponentE extends Component {
         )
     }
 }
-ComponenteE.contextType = UserContext
+ComponentE.contextType = UserContext
 
 export default ComponentE
